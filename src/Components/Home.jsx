@@ -72,7 +72,7 @@ function Home() {
               <div className=" space-y-2">
                   {/* resume parts*/}
                 <div>
-                <a href="" className=' bg-blue-600 px-20 py-3 rounded-md text-xl' download>
+                <a href="portfolio/public/Resume.pdf" className=' bg-blue-600 px-20 py-3 rounded-md text-xl' download>
                     resume
                 </a>
             </div>                       
