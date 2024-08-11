@@ -8,6 +8,7 @@ import { ReactTyped } from "react-typed";
 
 import { FaGithub } from "react-icons/fa";
 import { Link } from "react-scroll";
+import Resume from "../../public/Resume.pdf"
 
 
 
@@ -72,7 +73,7 @@ function Home() {
               <div className=" space-y-2">
                   {/* resume parts*/}
                 <div>
-                <a href="portfolio/public/Resume.pdf" className=' bg-blue-600 px-20 py-3 rounded-md text-xl' download>
+                <a href="#" className=' bg-blue-600 px-20 py-3 rounded-md text-xl' download>
                     resume
                 </a>
             </div>                       
