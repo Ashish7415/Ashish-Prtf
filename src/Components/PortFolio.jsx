@@ -23,7 +23,7 @@ function PortFolio() {
     {
       id: 3,
       logo: RecipeApp,
-      name: "Rexipe App",
+      name: "Recipe App",
     },
     
     
