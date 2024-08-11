@@ -2,7 +2,7 @@ import React from "react";
 
 import shopping from "../../public/pjck.png";
 import Amazon  from "../../public/Amazon.png";
-import recipi from "../../public/recipi.png";
+import RecipeApp from "../../public/Recipe App.png";
 
 
 
@@ -22,8 +22,8 @@ function PortFolio() {
     },
     {
       id: 3,
-      logo: recipi,
-      name: "recipi",
+      logo: RecipeApp,
+      name: "Rexipe App",
     },
     
     
