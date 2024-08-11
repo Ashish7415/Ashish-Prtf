@@ -2,22 +2,28 @@ import React from "react";
 
 import shopping from "../../public/pjck.png";
 import Amazon  from "../../public/Amazon.png";
-import pjck  from "../../public/pjck.png";
-import { FaGithub } from "react-icons/fa";
+import recipi from "../../public/recipi.png";
+
+
 
 
 function PortFolio() {
   const cardItem = [
     
     {
-      id: 3,
+      id: 1,
       logo: shopping,
       name: "Shopping Website",
     },
     {
-      id: 4,
+      id: 2,
       logo: Amazon,
       name: "Amazon clone",
+    },
+    {
+      id: 3,
+      logo: recipi,
+      name: "recipi",
     },
     
     
