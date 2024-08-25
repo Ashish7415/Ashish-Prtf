@@ -3,6 +3,7 @@ import React from "react";
 import shopping from "../../public/pjck.png";
 import Amazon  from "../../public/Amazon.png";
 import RecipeApp from "../../public/Recipe App.png";
+import Netflix from "../../public/netfilx.png";
 
 
 
@@ -13,17 +14,22 @@ function PortFolio() {
     {
       id: 1,
       logo: shopping,
-      name: "Shopping Website",
+      name: "Trends Shopping WebApp |",
     },
     {
       id: 2,
+      logo: Netflix,
+      name: "Netflix-GPT",
+    },
+    {
+      id: 3,
       logo: Amazon,
       name: "Amazon clone",
     },
     {
-      id: 3,
+      id: 4,
       logo: RecipeApp,
-      name: "Recipe App",
+      name: "Recipe WebApp",
     },
     
     
